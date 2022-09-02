@@ -1,0 +1,29 @@
+.marketing .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.marketing .col-lg-4 p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+
+.searchbar{
+  width: 600px;
+  
+}
+
+.cus{
+  width: 50px;
+  height: 50px;
+}
+
+.row-css{
+  justify-content: space-evenly;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.car-sl{
+  border-radius: 1rem;
+}
